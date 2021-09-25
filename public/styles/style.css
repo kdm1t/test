@@ -1,0 +1,9 @@
+html{
+    overflow: auto !important;
+    scrollbar-width: none;
+}
+body{
+    padding:0px;
+    margin:0;
+    background-color: #D2DFE1;
+}
